@@ -1,2 +1,2 @@
-# Publico
-# Conteúdo de terceiros com Fontes em readme
+# Público
+# Conteúdo de terceiros com fontes em readme
